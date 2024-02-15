@@ -1,0 +1,20 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "🌹涛涛影视仓库🌹",
+      "sourceUrl": "https://jihulab.com/xuan2/tv/-/raw/main/tt.json"
+    },
+    {
+      "sourceName": "🌷涛涛收集精品仓🌷",
+      "sourceUrl": "https://codeberg.org/kuanglang/box/raw/branch/main/dt.json"
+    },
+    {
+      "sourceName": "💐涛涛备用仓库💐",
+      "sourceUrl": "https://jihulab.com/xuanbei1/tvbox/-/raw/main/d.json"
+    },
+    {
+      "sourceName": "☘️欧歌主仓库☘️",
+      "sourceUrl": "http://w.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&b=欧歌"
+    }
+  ]
+}
